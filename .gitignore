@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.npm
+
+# Env files — NEVER commit these
+.env
+backend/.env
+*.keystore
+keystore.properties
+
+# Build outputs
+android/app/build/
+ios/build/
+*.aab
+*.apk
+*.ipa
+
+# Logs
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
