@@ -1,0 +1,8 @@
+{
+  "name": "Lookr",
+  "displayName": "Lookr",
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "bundleId": "com.lookr.app",
+  "androidPackage": "com.lookr.app"
+}
